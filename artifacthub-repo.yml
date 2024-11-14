@@ -10,7 +10,7 @@
 # NOT apply to ownership claim operations, which are processed immediately.
 #
 #repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
-repositoryID: < The ID of the Artifact Hub repository>
+repositoryID: 1ffb310d-7f90-489b-9edd-257d1ec0fd1b
 owners: # (optional, used to claim repository ownership)
   - name: Kalyan Reddy Daida
     email: stacksimplify@gmail.com
